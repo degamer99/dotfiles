@@ -1,0 +1,76 @@
+#+TITLE: Org-Mode Crash Course
+#+AUTHOR: Tom Harry
+#+STARTUP: overview
+
+* 📋 Basics of Org-Mode
+
+Org files are plain text but powerful. Headings use asterisks:
+
+* This is a heading
+** This is a subheading
+*** You can go deeper
+
+Use `TAB` to fold/unfold sections.
+
+* ✅ TODOs and Checkboxes
+
+** TODO Learn Emacs basics
+** DONE Install Doom Emacs
+** TODO Setup Org-mode agenda
+
+- [x] Install org-roam
+- [ ] Understand headings
+- [ ] Practice capture templates
+
+* 🕒 Scheduling
+
+** TODO Finish Doom setup
+   SCHEDULED: <2025-07-12 Sat>
+   DEADLINE: <2025-07-15 Tue>
+
+* 📌 Tags and Metadata
+
+** TODO Write blog post     :writing:blog:
+** DONE Submit assignment   :school:
+
+Use `C-c C-c` on tags to update.
+
+* 📚 Notes and Links
+
+You can add links like this: [[https://orgmode.org][Org-mode Docs]]
+
+Use `M-RET` to insert new items at the same level.
+
+* 💻 Code Blocks
+
+#+BEGIN_SRC python
+print("Hello from Org-mode!")
+print("how are you today")
+#+END_SRC
+
+#+RESULTS:
+: None
+
+You can execute with `C-c C-c` inside the block.
+
+* 🗓️ Agenda View
+
+Use `SPC m a` to open the agenda. It shows:
+
+- Scheduled tasks
+- Deadlines
+- TODOs across files
+
+* 🧠 Practice Challenges
+
+** TODO Create your own task list
+** TODO Add a scheduled task
+** TODO Make a project section with subtasks
+** TODO Insert and run a Python code block
+
+* This is a heading if i can
+** and it this this is a sub headding
+** this is a second sub heading
+* this is just another normall heading
+** this is a second
+*** and now this is a third heading
