@@ -1,0 +1,90 @@
+"""
+Ìyìn Èdè Ekiti Mi: Ọ̀rọ̀, Ọgbọ́n àti Ifẹ̀
+""",
+"""
+  Ìbẹ̀rẹ̀ Ẹ̀dá
+Mo ń sọ̀rọ̀ lónìí ní èdè mi,
+Èdè Ekiti, ti mo ti kọ́ (ti mo ti kọ́ tẹlẹ),
+Mo ń fi inú rere sọ̀rọ̀, mo yóò sọ fún ayé
+Bí a ṣe ń rìn, bí a ṣe ti rìn, tí a yóò rìn lọ́la.
+""",
+"""
+  Àwọn Ọ̀rọ̀ Tó Wà Lábẹ́ Ọ̀run
+Ní àárọ̀, ní ọ̀sán, ní alẹ́ pẹ̀lú àwọn mẹ́ta—
+Ọ̀kan, méjì, mẹ́ta; gbogbo ìgbà ni a ń jà fún ìmọ̀,
+Pẹ̀lú màmá mi, pẹ̀lú bàbá mi, arákùnrin àti arábìnrin,
+A ní kí a má ṣe foju kọ́ - ẹ jọ̀ọ́, ẹ ṣe àti - kí lo dé?
+""",
+"""
+  Àwọn Ìbéèrè àti Àwọn Ọ̀rọ̀ Ìkìlọ̀
+Kí ni ìtàn yìí? Ta ni ó sọ pé a ò lè mọ̀ọ́kan?
+Báwo ni a ṣe lè dá ìbànújẹ dúró, nítorí pé kò sí?
+Ṣé o rí i pé - kò sí ohun tó wulẹ̀ jẹ́?
+Ìbànújẹ kò ní gba wa, bí a bá ní ìmọ̀, tí a sì ní ìfẹ́.
+""",
+"""
+  Àìmọ̀, Ìdánilẹ́kọ̀ọ́ àti Ìfọkànbalẹ̀
+Mo ti fọ́ ọ̀rọ̀ èdè yìí, mo ti gbọ́ àgbọ̀ràn,
+Mo lè kọ́, mo sì lè ṣe, nítorí pé mo gbọ́dọ̀ ṣí ojú mi sílẹ̀,
+Àti pé, - bó tilẹ̀ jẹ́ pé a kò rí ìmọ̀ ní gbogbo ibi,
+àmọ́, ọgbọ́n ń bọ́ lẹ́yìn ìṣòro, a sì ń fi ọkàn balẹ̀.
+""",
+"""
+  Àwọn Ẹ̀ka Ara àti Ìdílé
+Orí mi ń gbé ìtàn bàbá,
+Ọwọ́ mi ń fi ìmọ̀ ṣe iṣẹ́,
+Ojú mi ń wo ọ̀nà ti màmá fi tọ́ wa,
+Etí mi ń gbọ́ ìkìlọ̀ àwọn arákùnrin àti àbúrò,
+Gbogbo ara mi, gbogbo ẹ̀dá mi, jẹ́ kí n ní inú ìyìn.
+""",
+"""
+  Àwọn Àfihàn Ìmọ̀, Àwọn Òwe àti Àlàyé
+Wí pé, - Ẹni tí kò mọ̀ ọ̀rọ̀ èdè, kò mọ̀ ọ̀rọ̀ ayé,
+Àwọn òwe ń sọ pé: - Ọmọ tí a kọ́, yóò di olóye,
+Ó dájú pé, tí a bá kó ẹ̀kọ́ pẹ̀lú ìfarabalẹ̀,
+Gbogbo ìmọ̀ yóò dà bí ìrókèré, tó yí gbogbo wa ká.
+""",
+"""
+  Ìsọ̀kan Ọ̀rọ̀ Àti Ìtàn Ẹ̀dá
+Mo ti ń ṣe (nísinsin yìí) iṣẹ́ pẹ̀lú ifẹ́,
+Mo ti sọ̀rọ̀, mo sì ti gbàdúrà fún àláfíà gbogbo,
+Ṣùgbọ́n, ah! Ẹ̀wẹ̀, a kò gbọ́dọ̀ gbagbé pé,
+- Ṣùgbọ́n tí a bá ní ìmọ̀, a ò ní jẹ́ kí owó àti agbára pa wa mọ́.
+""",
+"""
+  Àwọn Àmì Ẹ̀dá àti Àwọn Ọ̀rọ̀ Pípẹ̀
+Láti inú ọ̀rọ̀ àtijọ́ sí ọ̀rọ̀ títun,
+Mo ti lo - mo ń ṣe, - mo ti ṣe, - mo yóò ṣe,
+Kò sí ìgbà tí a ò ní kópa pẹ̀lú - àti àti - ṣùgbọ́n,
+Nítorí pé ìtàn mi jẹ́ ìtàn ìfarapa àti ìmúlòlùfẹ́ èdè.
+""",
+"""
+  Ìmọ̀, Ìmọ̀tara-ẹni àti Ẹ̀dá Ayé
+Nínú ọ̀pọ̀ àwọn ìsìnkú, mo ti fi - gbọ́dọ̀ hàn,
+Mo ti kọ́ - lẹ́, kí n lè fi gbogbo ọkàn mi ṣàfihàn,
+Bí mo ṣe ń ròyìn àwọn ìtàn - báwo ni? àti - kí ló dé?
+Ìmọ̀ yìí, tó bá ti di àkọsílẹ̀, yóò jẹ́ àmúlò ìrírí àtàwọn ìtàn àtọkànwá.
+""",
+"""
+  Ìsọ̀kan Orin, Ọ̀rọ̀ àti Ìfaramọ̀ Ẹ̀dá
+Ah! Kí lo dé tí ìrìn àjò yìí fi pé?
+Ẹ̀wẹ̀! Gbogbo ìdílé mi – ọmọ, arákùnrin, arábìnrin, bàbá, màmá –
+Ní ìpinnu pé, - ó jẹ́ pé èdè wa ló jẹ́ kìlọ̀kìlọ̀,
+Tí a bá mọ̀ọ́kan, gbogbo ayé á mọ̀ọ́kan.
+""",
+"""
+  Ìyìn, Ìtara àti Ìmúlò Ìmọ̀
+Nígbà tí a bá sọ pé - ẹ jọ̀ọ́, ẹ ṣe fún ẹ̀dá,
+A ń fi ọkàn wa hàn pé a ní ìbáṣepọ̀ pẹ̀lú gbogbo àwọn tó wà,
+Kí ni ìtàn wa? Ta ló mọ̀ pé, ní gbogbo - ọ̀kan, méjì, mẹ́ta,
+A lè fi ọgbọ́n wa hàn, a sì lè yáyà bí òṣùpá lójú òru.
+""",
+"""
+  Ìparí Ìyìn Èdè Mi
+Mo dúpẹ́, mo ní inú ìyìn pẹ̀lú gbogbo ọ̀rọ̀ mi,
+Ẹni tí kò mọ̀ àṣà àti èdè Ekiti, kó mọ̀ ìtàn ìran rẹ;
+Nítorí pé èdè mi ni àyànmọ́ mi,
+Mo ti kó gbogbo ọ̀rọ̀, gbogbo ìtumọ̀, àti gbogbo ìfẹ́ sí inú rẹ,
+Kí gbogbo ayé lè gbọ́ pé, - Èdè mi ni ìmọ̀, èdè mi ni agbára,
+Èdè Ekiti, tí a ń fìdí rẹ múlẹ̀, nígbà gbogbo, ní gbogbo ìgbà!
+""",

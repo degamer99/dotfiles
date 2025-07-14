@@ -1,1 +1,2 @@
 1. files folder
+2. download from github the solarfx project

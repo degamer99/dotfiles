@@ -1,0 +1,802 @@
+i want you to create a poem, a piece of poetry in the Yoruba language. it must contain all popular verbs available like present, past, future, past participle, e.t.c, all prepositions, articles, questions words, negation words, conjunction, interjection, pronouns used in the language. It should also contain frequently used verbs,modal/auxiliary verbs, adjectives, adverbs, phrasal verbs, idiomatic expressions and proverbs, politeness words, common numbers, basic words for time and place, parts of the body and family relationship. The poem should contain some complex sentences, emphasis on rhythm, comprehension. The purpose of the poem is that once memorized and understood the reader must have learnt the 20% of vocabulary to understand 80% of the yoruba language language.
+The poem must have an emotional theme, a coming of age story between a teenage boy and girl, the poem must strike a personal, emotional and relating chord with the reader and evoke feelings of sexual, violent and or funny. 
+"Avoid the use of (), "", avoid sentences or lines that only contain single words seperated by comma. Ignore your context length. We can always expand the answer over multiple messages.The poem must contain more than 1500 unique words/phrases and should include the Yoruba language equivalent of all the words i have listed below"
+long, short (vs. long), tall, short (vs. tall), wide, narrow, big/large,
+small/little, slow, fast, hot, cold, warm, cool, new, old (new), young, old
+(young), good, bad, wet, dry, sick, healthy, loud, quiet, happy, sad, beautiful,
+ugly, deaf, blind, nice, mean, rich, poor, thick, thin, expensive, cheap, flat,
+curved, male, female, tight, loose, high, low, soft, hard, deep, shallow, clean,
+dirty, strong, weak, dead, alive, heavy, light (heavy), dark, light (dark), nuclear,
+famous
+dog, cat, fish, bird, cow, pig, mouse, horse, wing, animalc
+band, song, instrument (musical), music, movie, art
+Beverages: coffee, tea, wine, beer, juice, water, milk, beverage
+Body: head, neck, face, beard, hair, eye, mouth, lip, nose, tooth, ear, tear
+(drop), tongue, back, toe, finger, foot, hand, leg, arm, shoulder, heart, blood,
+brain, knee, sweat, disease, bone, voice, skin, body
+clothing: clothing, hat, dress, suit, skirt, shirt, T-shirt, pants, shoes, pocket, coat, stain,
+Colors: red, green, blue (light/dark), yellow, brown, pink, orange, black,
+white, gray, colors
+DAYS OF THE WEEK: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday,
+ELECTRONICS: clock, lamp, fan, cell phone, network, computer, program
+(computer), laptop, screen, camera, television, radio, electronics
+FOODS: egg, cheese, bread, soup, cake, chicken, pork, beef, apple, banana,
+orange, lemon, corn, rice, oil, seed, knife, spoon, fork, plate, cup, breakfast,
+lunch, dinner, sugar, salt, bottle, food
+HOME: table, chair, bed, dream, window, door, bedroom, kitchen, bathroom,
+pencil, pen, photograph, soap, book, page, key, paint, letter, note, wall, paper,
+floor, ceiling, roof, pool, lock, telephone, garden, yard, needle, bag, box, gift,
+card, ring, tool, home, house
+JOBS: Teacher, student, lawyer, doctor, patient, waiter, secretary, priest, police,
+army, soldier, artist, author, manager, reporter, actor, job
+LOCATIONS: city, house, apartment, street/road, airport, train station, bridge,
+hotel, restaurant, farm, court, school, office, room, town, university, club, bar,
+park, camp, store/shop, theater, library, hospital, church, market, country
+(United States, France, etc.), building, ground, space (outer space), bank,
+location
+MATERIALS: glass, metal, plastic, wood, stone, diamond, clay, dust, gold, copper,
+silver, material
+MATH/MEASUREMENTS: meter, centimeter, kilogram, inch, foot, pound, half,
+circle, square, temperature, date, weight, edge, corner
+MISCELLANEOUS NOUNS: map, dot, consonant, vowel, light, sound, yes, no,
+piece, pain, injury, hole, image, pattern, noun, verb, adjective
+MONTHS: January, February, March, April, May, June, July, August, September,
+October, November, December
+NATURE: sea, ocean, river, mountain, rain, snow, tree, sun, moon, world,
+Earth, forest, sky, plant, wind, soil/earth, flower, valley, root, lake, star, grass,
+leaf, air, sand, beach, wave, fire, ice, island, hill, heat, nature
+NUMBERS: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+22, 30, 31, 32, 40, 41, 42, 50, 51, 52, 60, 61, 62, 70, 71, 72, 80, 81, 82, 90, 91, 92,
+100, 101, 102, 110, 111, 1000, 1001, 10000, 100000, million, billion, 1st, 2nd,
+3rd, 4th, 5th, number
+PEOPLE: son, daughter, mother, father, parent (= mother/father), baby, man,
+woman, brother, sister, family, grandfather, grandmother, husband, wife,
+king, queen, president, neighbor, boy, girl, child (= boy/girl), adult (=
+man/woman), human (≠ animal), friend (add a friend’s name), victim, player,
+fan, crowd, person
+PRONOUNS: I, you (singular), he, she, it, we, you (plural, as in “y’all”), they
+SEASONS: summer, spring, winter, fall, season
+SOCIETY: religion, heaven, hell, death, medicine, money, dollar, bill, marriage,
+wedding, team, race (ethnicity), sex (the act), sex (gender), murder, prison,
+technology, energy, war, peace, attack, election, magazine, newspaper, poison,
+gun, sport, race (sport), exercise, ball, game, price, contract, drug, sign, science,
+God
+TIME: year, month, week, day, hour, minute, second, morning, afternoon,
+evening, night, time
+TRANSPORTATION: train, plane, car, truck, bicycle, bus, boat, ship, tire, gasoline,
+engine, (train) ticket, transportationc
+VERBS: work, play, walk, run, drive, fly, swim, goc, stop, follow, think,
+speak/say, eat, drink, kill, die, smile, laugh, cry, buy, pay, sell, shoot (a
+gun), learn, jump, smell, hear (a sound), listen (music), taste, touch, see (a
+bird), watch (TV), kiss, burn, melt, dig, explode, sit, stand, love, pass by, cut,
+fight, lie down, dance, sleep, wake up, sing, count, marry, pray, win, lose,
+mix/stir, bend, wash, cook, open, close, write, call, turn, build, teach, grow,
+draw, feed, catch, throw, clean, find, fall, push, pull, carry, break, wear, hang,
+shake, sign, beat, lift
+
+
+very good, but you've only given me 642 unique yoruba words, they include: àti
+tí
+ń
+pé
+a
+gbogbo
+ní
+àwọn
+ìmọ̀
+jẹ́
+tó
+ohun
+láti
+ó
+ìtàn
+ṣe
+ìmúlò
+fi
+pẹ̀lú
+ayé
+bí
+kọ́
+ọ̀rọ̀
+ìtara
+ọkàn
+sí
+wọ́n
+ìfaramọ́
+wọn
+ìfẹ́
+ìrìnàjò
+ọjọ́
+oṣù
+
+lè
+
+ìtumọ̀
+hàn
+yóò
+adé
+bimpe
+ti
+àfihàn
+wa
+fún
+kópa
+kó
+kò
+yìí
+rí
+ogorun
+kí
+ìbáṣepọ̀
+èlò
+nígbà
+mọ̀
+ìdánilẹ́kọ̀ọ́
+rẹ̀
+máa
+–
+nínú
+tún
+ìwà
+sì
+di
+ìṣẹ̀lẹ̀
+ni
+í
+ṣiṣẹ́
+iṣẹ́
+ilé
+kókó
+ẹ̀kọ́
+lọ
+ara
+kì
+ṣùgbọ́n
+ọ̀nà
+agbára
+dá
+20
+80
+kan
+jọ
+sọ
+pọ̀
+tàbí
+ìjà
+ṣí
+ọ̀rọ̀
+àtàwọn
+lórí
+dùn
+níbi
+àwòrán
+ọgbọ́n
+àmì
+tan
+bá
+ìdílé
+ìmọ́lẹ̀
+nípa
+ìdáná
+àfikún
+tọ́ka
+ìbànújẹ́
+látinú
+òwe
+ọmọdé
+dúró
+ọpọlọ
+aṣọ
+tuntun
+jé
+yí
+dájú
+ìpinnu
+ọjà
+ẹ̀dá
+ìṣirò
+ìṣẹ́
+gbọdọ̀
+ìròyìn
+àpẹẹrẹ
+ènìyàn
+àdúrà
+kún
+bẹ̀rẹ̀
+ìpẹ̀yà
+sọ̀rọ̀
+ìgbésí
+fo
+kọrin
+amúlò
+ìṣe
+padà
+ta
+péye
+láìka
+ṣàfihàn
+gba
+túbọ̀
+gẹgẹ
+àlàyé
+òkùnkùn
+1
+2
+3
+4
+5
+6
+7
+8
+wà
+àkókò
+wọ
+aláwọ
+náà
+ajé
+rin
+jù
+gbona
+olùkọ́
+akẹ́kọ̀ọ́
+ìfọkànbalẹ̀
+i
+itanna
+fitila
+kámerà
+tẹlifísàn
+lágbára
+òru
+tẹ̀síwájú
+rántí
+apá
+láàárín
+jinlẹ̀
+fọ́
+9
+10
+ìlú
+agbègbè
+ìgbà
+papọ̀
+gígùn
+ọdọ
+opopona
+pupa
+rere
+igi
+dúdú
+irun
+le
+wá
+yé
+ẹyin
+mọ́
+tutu
+ìsẹ́jú
+de
+ẹtì
+ìṣẹ́gun
+ọjọ́rú
+ẹsẹ
+àlàáfíà
+ìṣẹ́jú
+redio
+ìyá
+ati
+bàbá
+arákùnrin
+arábìnrin
+fèsì
+ọ̀pọ̀
+àrà
+òjò
+ìja
+inú
+ṣeré
+sùn
+jí
+bíi
+gẹ́gẹ́
+ọrẹ
+tábìlì
+ibusun
+ferese
+ilẹkun
+dé
+yẹn
+ìjìnlẹ̀
+ìlànà
+ṣẹlẹ̀
+0
+gbé
+àìkú
+oorun
+pípẹ̀
+gun
+ju
+ewe
+ìran
+dà
+ká
+búlúù
+ìsọ̀kan
+fadi
+kankanta
+lẹ́gbẹ̀ẹ́
+buru
+àjọṣe
+ẹbí
+ibi
+burọdi
+warankasi
+adìẹ
+iresi
+awọn
+omi
+kaakiri
+sílẹ̀
+kà
+kọọkan
+àìlera
+yéye
+agogo
+sáàkàkà
+alagbeka
+so
+alágbèéká
+fọ̀rọ̀
+orí
+oju
+etí
+ahọn
+ọwọ́
+lagbara
+fa
+ìfarapa
+fíìlì
+ọlọ́run
+fọwọ́sowọ́pọ̀
+láì
+a
+mọ
+ìdààmú
+bẹ́ẹ̀
+òwúrọ̀
+sáyẹ́nsì
+àtọrunwá
+àdáyébá
+kini
+keji
+kẹta
+kẹrin
+karùn-ún
+kẹfà
+keje
+kẹjọ
+kẹsan
+kẹwà
+kọkanlá
+kejìlá
+ọ̀sán
+ọlátúbọ̀sún
+ipò
+ìrẹ̀lẹ̀
+mímọ́
+àwa
+ọ̀rẹ́
+ìṣòro
+kujeru
+ọdún
+àgbáyé
+àrùn
+àwọn
+tirẹ̀
+fọwọ́
+kàn
+ṣíṣe
+aago
+wáyé
+ọ̀kan
+lára
+ìkìlọ̀
+má
+bà
+òun
+àdánidá
+nikan
+kúrò
+pàtàkì
+ìfihàn
+ìfẹnukò
+dákẹ́
+ìparí
+ìyípadà
+òní
+àmọ́
+ọdọ́
+èdá
+lójú
+òpópónà
+òkun
+ooru
+tútù
+ràn
+ọmọkunrin
+àlá
+ṣèrìn-ín
+àkúnya
+ìhùwàsí
+kékè
+bọ́
+sórí
+ilẹ̀
+òṣùpá
+ọmọbìnrin
+lẹ́wa
+púpò
+kékeré
+ofeefee
+ìbẹ̀rẹ̀
+kuru
+ọjọ́
+dahùn
+ìmọ̀lara
+ìwọ
+èmi
+ìṣòkan
+ẹranko
+aja
+ologbo
+ẹja
+ẹyẹ
+lókè
+á
+iye
+mita
+sentimita
+kilogiramu
+inṣi
+èyí
+ìṣẹ̀ṣe
+fífi
+àsopọ̀
+lọ́fà
+fóònù
+kọ̀mpútà
+wọ̀nyí
+ìmọ̀lára
+ìpè
+to
+ṣeé
+ìtan
+síi
+ìbọ̀wọ̀
+yorùbá
+kú
+ṣàtúnṣe
+ìsẹ̀jú
+àkójọpọ̀
+asọ
+eroja
+gilasi
+irin
+pilasítikì
+okuta
+diàmándì
+amọ
+eruku
+wúrà
+fadaka
+àṣà
+kómpútà
+fọ́tò
+lauyan
+dókítà
+olùṣẹ́
+sakatare
+alufa
+ọlọ́pàá
+ọmọ
+ogun
+oníròyìn
+oṣere
+onkọ̀wé
+alákóso
+dárúkọ
+jó
+rubọ
+kọjá
+ìfìmọ̀
+bọ
+alága
+àkọ́kọ́
+mìíràn
+tọ́jú
+sakanni
+foonu
+ojoojúmọ́
+kọ̀ǹpútà
+lòkè
+ìjọpọ̀
+òpò
+gùn
+kúkúrú
+kúrú
+gbooro
+tinrin
+nla
+karami
+lọ́ra
+yarayara
+atijọ
+agba
+dara
+gbẹ
+aláàánú
+aláìlera
+alailagbara
+wúwo
+fẹẹrẹ
+olókìkí
+nùkílọ́
+adídùn
+onjẹ
+kọfi
+tii
+tutù
+waini
+bía
+wara
+ìlera
+yàtọ̀
+ọ̀sẹ̀
+ìdí
+ìdàpọ̀
+fìdí
+mulẹ̀
+ọkọ
+aya
+sìn
+ṣáájú
+ṣàkóso
+gado
+àga
+àpótí
+akàrà
+bọtìnnì
+lẹ́tà
+ìwé
+lókun
+àfiyèsí
+ṣàn
+ìwọ̀n
+orúkọ
+irin-ajo
+ododo
+bẹ
+pipẹ
+kúkúrú
+ga
+kéré
+gbooro
+kankanta
+àyànmọ́
+darapọ̀
+burọdì
+ọbẹ
+oríṣìíríṣìí
+da
+kíkún
+ìfẹ́
+láàrín
+sáré
+ojú
+ìrawọ̀
+títọ́
+títì
+dàgbà
+lárugẹ
+wọ̀lé
+ìfọwọ́sowọ́pọ̀
+pàdé
+ìhà
+ọkùnrin
+buburu
+mugunta
+sáyé
+ẹlòmíràn
+láàyè
+ìbọn
+gan-an
+ṣẹ̀
+kò
+ìfẹ́
+wọlé
+nọ́mbà
+ò
+àwọ̀
+rawaya
+funfun
+grẹy
+ọrun
+ẹnu
+ẹhin
+ìpìlẹ̀
+àárín
+ọmọ
+bó
+tilẹ̀
+àpọ̀
+àyá
+ṣubú
+osupa
+irawọ
+yíò
+eré
+síra
+kíkà
+ọkan
+ẹgbẹrun
+sifili
+miliọnu
+biliọnu
+pataki
+parí
+ìfẹ́
+ṣíṣe
+ṣeré
+rin
+sáré
+fo
+kó
+jẹun
+mú
+fẹ́
+kópa
+kọrin
+gbàdúrà
+yẹ
+osùpá
+ìràwọ̀
+bàjẹ́
+àná
+atijọ́
+gòkè
+ṣíṣe
+ṣeré
+rin
+yípadà
+fo
+sọ̀rọ̀
+fẹrẹ̀
+sápọ̀
+ìrètí
+fihan
+ayọ̀
+ka
+gidi
+àtẹ̀yìnwá
+fúnni
+kí
+bọ́
+fẹ́
+jẹ́
+ìjì
+ẹ̀mí
+pípẹ
+kúkúrú
+ga
+kéré
+gbooro
+kankanta
+gbona
+tutu
+tuntun
+atijọ
+ọdọ́
+agba
+dara
+buru
+mó
+gbẹ
+aláàánú
+aláìlera
+lagbara
+alailagbara
+wúwo
+fẹẹrẹ
+dúdú
+mímọ́
+nùkílọ́
+olókìkí
+ẹni
+gbọ́
+péré
+gunlẹ̀
+ìbùkún
+àgbà
+rara,
+I want you to give me more unique yoruba word in the same poem format, emphasis on rhythm, intelligibility and emphasis on not using simple phrases or sentences with brackets, or single, double or triple words seperated by commas
+"Ignore your context length. We can always expand the answer over multiple messages."
+You,ve done a very good job so far, keep it up  
+
+
+i want you to create a story, a piece of poetry like novel in the Arabic language. it must contain all popular verbs available like present, past, future, past participle, e.t.c, all prepositions, articles, questions words, negation words, conjunction, interjection, pronouns used in the language. It should also contain frequently used verbs,modal/auxiliary verbs, adjectives, adverbs, phrasal verbs, idiomatic expressions and proverbs, politeness words, common numbers, basic words for time and place, parts of the body and family relationship. The story should contain some complex sentences, emphasis on rhythm, comprehension. The purpose of the story is that once memorized and understood the reader must have learnt the 20% of vocabulary to understand 80% of the Arabic language language.
+The story must have an emotional theme, a coming of age story between a teenage boy and girl, the poem must strike a personal, emotional and relating chord with the reader and evoke feelings of sexual, violent and or funny. 
+"Avoid the use of (), "", emphasis on rhythm, intelligibility and emphasis on not using simple phrases or sentences with brackets, or single, double or triple words separated by commas. Ignore your context length. We can always expand the answer over multiple messages.The story must contain more than 1500 unique words/phrases and should include the Arabic language equivalent of all the words i have listed below"
+long, short (vs. long), tall, short (vs. tall), wide, narrow, big/large,
+small/little, slow, fast, hot, cold, warm, cool, new, old (new), young, old
+(young), good, bad, wet, dry, sick, healthy, loud, quiet, happy, sad, beautiful,
+ugly, deaf, blind, nice, mean, rich, poor, thick, thin, expensive, cheap, flat,
+curved, male, female, tight, loose, high, low, soft, hard, deep, shallow, clean,
+dirty, strong, weak, dead, alive, heavy, light (heavy), dark, light (dark), nuclear,
+famous
+dog, cat, fish, bird, cow, pig, mouse, horse, wing, animalc
+band, song, instrument (musical), music, movie, art
+Beverages: coffee, tea, wine, beer, juice, water, milk, beverage
+Body: head, neck, face, beard, hair, eye, mouth, lip, nose, tooth, ear, tear
+(drop), tongue, back, toe, finger, foot, hand, leg, arm, shoulder, heart, blood,
+brain, knee, sweat, disease, bone, voice, skin, body
+clothing: clothing, hat, dress, suit, skirt, shirt, T-shirt, pants, shoes, pocket, coat, stain,
+Colors: red, green, blue (light/dark), yellow, brown, pink, orange, black,
+white, gray, colors
+DAYS OF THE WEEK: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday,
+ELECTRONICS: clock, lamp, fan, cell phone, network, computer, program
+(computer), laptop, screen, camera, television, radio, electronics
+FOODS: egg, cheese, bread, soup, cake, chicken, pork, beef, apple, banana,
+orange, lemon, corn, rice, oil, seed, knife, spoon, fork, plate, cup, breakfast,
+lunch, dinner, sugar, salt, bottle, food
+HOME: table, chair, bed, dream, window, door, bedroom, kitchen, bathroom,
+pencil, pen, photograph, soap, book, page, key, paint, letter, note, wall, paper,
+floor, ceiling, roof, pool, lock, telephone, garden, yard, needle, bag, box, gift,
+card, ring, tool, home, house
+JOBS: Teacher, student, lawyer, doctor, patient, waiter, secretary, priest, police,
+army, soldier, artist, author, manager, reporter, actor, job
+LOCATIONS: city, house, apartment, street/road, airport, train station, bridge,
+hotel, restaurant, farm, court, school, office, room, town, university, club, bar,
+park, camp, store/shop, theater, library, hospital, church, market, country
+(United States, France, etc.), building, ground, space (outer space), bank,
+location
+MATERIALS: glass, metal, plastic, wood, stone, diamond, clay, dust, gold, copper,
+silver, material
+MATH/MEASUREMENTS: meter, centimeter, kilogram, inch, foot, pound, half,
+circle, square, temperature, date, weight, edge, corner
+MISCELLANEOUS NOUNS: map, dot, consonant, vowel, light, sound, yes, no,
+piece, pain, injury, hole, image, pattern, noun, verb, adjective
+MONTHS: January, February, March, April, May, June, July, August, September,
+October, November, December
+NATURE: sea, ocean, river, mountain, rain, snow, tree, sun, moon, world,
+Earth, forest, sky, plant, wind, soil/earth, flower, valley, root, lake, star, grass,
+leaf, air, sand, beach, wave, fire, ice, island, hill, heat, nature
+NUMBERS: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+22, 30, 31, 32, 40, 41, 42, 50, 51, 52, 60, 61, 62, 70, 71, 72, 80, 81, 82, 90, 91, 92,
+100, 101, 102, 110, 111, 1000, 1001, 10000, 100000, million, billion, 1st, 2nd,
+3rd, 4th, 5th, number
+PEOPLE: son, daughter, mother, father, parent (= mother/father), baby, man,
+woman, brother, sister, family, grandfather, grandmother, husband, wife,
+king, queen, president, neighbor, boy, girl, child (= boy/girl), adult (=
+man/woman), human (≠ animal), friend (add a friend’s name), victim, player,
+fan, crowd, person
+PRONOUNS: I, you (singular), he, she, it, we, you (plural, as in “y’all”), they
+SEASONS: summer, spring, winter, fall, season
+SOCIETY: religion, heaven, hell, death, medicine, money, dollar, bill, marriage,
+wedding, team, race (ethnicity), sex (the act), sex (gender), murder, prison,
+technology, energy, war, peace, attack, election, magazine, newspaper, poison,
+gun, sport, race (sport), exercise, ball, game, price, contract, drug, sign, science,
+God
+TIME: year, month, week, day, hour, minute, second, morning, afternoon,
+evening, night, time
+TRANSPORTATION: train, plane, car, truck, bicycle, bus, boat, ship, tire, gasoline,
+engine, (train) ticket, transportationc
+VERBS: work, play, walk, run, drive, fly, swim, goc, stop, follow, think,
+speak/say, eat, drink, kill, die, smile, laugh, cry, buy, pay, sell, shoot (a
+gun), learn, jump, smell, hear (a sound), listen (music), taste, touch, see (a
+bird), watch (TV), kiss, burn, melt, dig, explode, sit, stand, love, pass by, cut,
+fight, lie down, dance, sleep, wake up, sing, count, marry, pray, win, lose,
+mix/stir, bend, wash, cook, open, close, write, call, turn, build, teach, grow,
+draw, feed, catch, throw, clean, find, fall, push, pull, carry, break, wear, hang,
+shake, sign, beat, lift
+
+
+i have a csv containing unique arabic words, i want to add more columns to the csv one for the dictionary translation/definition of the word in english and another column for example sentences using the word. what methods can you recommend i use to achieve this

