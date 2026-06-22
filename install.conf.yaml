@@ -1,0 +1,26 @@
+- defaults:
+    link:
+      create: true  # Automatically create parent folders like ~/.config/mpv/
+      relink: true  # Overwrite existing symlinks
+
+# ==========================================
+# LINUX ROUTING (Fedora)
+# ==========================================
+- link:
+    ~/.config/mpv/mpv.conf:
+      path: mpv.conf
+      if: '[ "$(uname)" = "Linux" ]'
+    ~/.config/mpv/input.conf:
+      path: input.conf
+      if: '[ "$(uname)" = "Linux" ]'
+
+# ==========================================
+# WINDOWS ROUTING
+# ==========================================
+- link:
+    ~/AppData/Roaming/mpv/mpv.conf:
+      path: mpv.conf
+      if: ver
+    ~/AppData/Roaming/mpv/input.conf:
+      path: input.conf
+      if: ver
